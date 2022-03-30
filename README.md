@@ -16,7 +16,7 @@ This informations could be:
 ## Installation
 Clone First
 ```bash
- git clone https://github.com/ilyas9461/yoy-io-server-local.git
+ git clone https://github.com/ilyas9461/yoy-io-server-cloud.git
 ```
 
 To run API
